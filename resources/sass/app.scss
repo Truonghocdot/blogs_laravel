@@ -1,0 +1,21 @@
+@use 'reset';
+.container{
+
+
+    header{
+
+        .banner{
+
+            img{
+                width: 202px;
+                height: 62px;
+            }   
+
+        }     
+        ul{
+            column-gap: 1.8rem;
+
+        }
+    }    
+        
+}
